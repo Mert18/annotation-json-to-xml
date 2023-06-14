@@ -1,0 +1,1 @@
+{"dataset_name": "Xray-Pi", "version": 1.2, "license": "Apache 2", "image": {"image_name": "20200308_01570P.jpg", "width": 489, "height": 404}, "annotations": [{"label_name": "scissors", "label_type": "polygon", "points": [[216.326, 206.909], [313.227, 232.522], [387.931, 248.743], [386.223, 252.585], [308.532, 235.083], [277.796, 228.68], [216.326, 215.02]]}]}

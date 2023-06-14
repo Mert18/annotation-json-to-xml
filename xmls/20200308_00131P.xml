@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>20200308_00131P.jpg</filename><size><width>603</width><height>490</height></size><object><name>bottle</name><bndbox><xmin>318</xmin><ymin>93</ymin><xmax>488</xmax><ymax>319</ymax></bndbox></object><object><name>lighter</name><bndbox><xmin>481</xmin><ymin>297</ymin><xmax>545</xmax><ymax>358</ymax></bndbox></object></annotation>

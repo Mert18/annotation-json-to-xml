@@ -1,0 +1,1 @@
+{"dataset_name": "Xray-Pi", "version": 1.2, "license": "Apache 2", "image": {"image_name": "20200308_02359P.jpg", "width": 665, "height": 267}, "annotations": [{"label_name": "knife", "label_type": "polygon", "points": [[455.845, 119.806], [420.576, 205.911], [422.94, 210.246], [431.807, 213.399], [441.659, 213.201], [473.776, 130.249], [471.608, 127.293], [458.801, 120.2]]}]}

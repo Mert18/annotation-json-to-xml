@@ -1,0 +1,1 @@
+{"dataset_name": "Xray-Pi", "version": 1.2, "license": "Apache 2", "image": {"image_name": "20200308_01426P.jpg", "width": 602, "height": 496}, "annotations": [{"label_name": "battery", "label_type": "polygon", "points": [[199.478, 125.727], [261.752, 212.597], [317.746, 193.757], [251.809, 106.365], [218.317, 116.831]]}]}

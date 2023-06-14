@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>20200308_00239P.jpg</filename><size><width>552</width><height>448</height></size><object><name>explosive</name><bndbox><xmin>111</xmin><ymin>68</ymin><xmax>435</xmax><ymax>398</ymax></bndbox></object><object><name>knife</name><bndbox><xmin>199</xmin><ymin>241</ymin><xmax>476</xmax><ymax>389</ymax></bndbox></object></annotation>

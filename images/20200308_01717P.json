@@ -1,0 +1,1 @@
+{"dataset_name": "Xray-Pi", "version": 1.2, "license": "Apache 2", "image": {"image_name": "20200308_01717P.jpg", "width": 571, "height": 419}, "annotations": [{"label_name": "lighter", "label_type": "polygon", "points": [[264.231, 228.642], [245.798, 269.29], [287.391, 278.743], [296.843, 248.493], [304.406, 235.732]]}]}
